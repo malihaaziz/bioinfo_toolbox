@@ -1,3 +1,4 @@
+## Please use at your own discretion. test it on a small set. i have tested it thoroughly but you do it as well.
 ## this script creates pseudogenomes from a reference by using a tab delimited snp matrix
 ## input snp matrix format should be tab separated and in the following format
 ##chrom    postion    reference    sample1    sample2    sample3
